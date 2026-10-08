@@ -1,6 +1,16 @@
 /* Your styles go here! */
 h1 {
-  /* Demo style -- remove me and write your own */
   font-size: 48px;
-  color: purple;
+  color: #CCFF00;
+  background-color: #191970;
+  border: 10px solid #000000;
 }
+
+p {
+  font-size: 25px;
+  color: #191970;
+  background-color: #CCFF00;
+  border: 10px solid #000000;
+  padding: 10px;
+}
+
