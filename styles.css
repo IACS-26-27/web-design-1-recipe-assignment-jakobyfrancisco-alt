@@ -7,9 +7,10 @@ h1 {
 }
 
 p {
-  font-size: 18px;
+  font-size: 25px;
   color: #191970;
   background-color: #CCFF00;
-  border: 5px solid #000000;
+  border: 10px solid #000000;
+  padding: 10px;
 }
 
